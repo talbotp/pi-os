@@ -1,2 +1,5 @@
 # ignore gcc cross compiler
 /gcc-arm-none-eabi-7-2018-q2-update
+
+# ignore resources containing pdf etc.
+/resources
